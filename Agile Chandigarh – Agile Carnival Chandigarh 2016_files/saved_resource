@@ -1,0 +1,7 @@
+/* Enter Your Custom CSS Here */
+.header,
+.header-content-wrap,
+.packages,
+.contact-us {
+    background: none repeat scroll 0% 0% rgba(0, 0, 0, 0.30) !important;
+}
